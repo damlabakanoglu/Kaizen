@@ -1,0 +1,16 @@
+C:\Users\damla\OneDrive\Masaüstü\Other\Kaizen\FirstQuestion\obj\Debug\net5.0\FirstQuestion.csproj.AssemblyReference.cache
+C:\Users\damla\OneDrive\Masaüstü\Other\Kaizen\FirstQuestion\obj\Debug\net5.0\FirstQuestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damla\OneDrive\Masaüstü\Other\Kaizen\FirstQuestion\obj\Debug\net5.0\FirstQuestion.AssemblyInfoInputs.cache
+C:\Users\damla\OneDrive\Masaüstü\Other\Kaizen\FirstQuestion\obj\Debug\net5.0\FirstQuestion.AssemblyInfo.cs
+C:\Users\damla\OneDrive\Masaüstü\Other\Kaizen\FirstQuestion\obj\Debug\net5.0\FirstQuestion.csproj.CoreCompileInputs.cache
+C:\Users\damla\OneDrive\Masaüstü\Other\Kaizen\FirstQuestion\bin\Debug\net5.0\FirstQuestion.exe
+C:\Users\damla\OneDrive\Masaüstü\Other\Kaizen\FirstQuestion\bin\Debug\net5.0\FirstQuestion.deps.json
+C:\Users\damla\OneDrive\Masaüstü\Other\Kaizen\FirstQuestion\bin\Debug\net5.0\FirstQuestion.runtimeconfig.json
+C:\Users\damla\OneDrive\Masaüstü\Other\Kaizen\FirstQuestion\bin\Debug\net5.0\FirstQuestion.runtimeconfig.dev.json
+C:\Users\damla\OneDrive\Masaüstü\Other\Kaizen\FirstQuestion\bin\Debug\net5.0\FirstQuestion.dll
+C:\Users\damla\OneDrive\Masaüstü\Other\Kaizen\FirstQuestion\bin\Debug\net5.0\ref\FirstQuestion.dll
+C:\Users\damla\OneDrive\Masaüstü\Other\Kaizen\FirstQuestion\bin\Debug\net5.0\FirstQuestion.pdb
+C:\Users\damla\OneDrive\Masaüstü\Other\Kaizen\FirstQuestion\obj\Debug\net5.0\FirstQuestion.dll
+C:\Users\damla\OneDrive\Masaüstü\Other\Kaizen\FirstQuestion\obj\Debug\net5.0\ref\FirstQuestion.dll
+C:\Users\damla\OneDrive\Masaüstü\Other\Kaizen\FirstQuestion\obj\Debug\net5.0\FirstQuestion.pdb
+C:\Users\damla\OneDrive\Masaüstü\Other\Kaizen\FirstQuestion\obj\Debug\net5.0\FirstQuestion.genruntimeconfig.cache

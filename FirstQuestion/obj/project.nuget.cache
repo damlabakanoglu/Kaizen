@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LwuRYfsac1HnWLJKnQkXjPrd9aVLkMDC8RntVac5IBO5ADBnn+ZZShcX+KsHIDLzOGIxEcr5JKP5Acwasr17zg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\damla\\OneDrive\\Belgeler\\GitHub\\Robert\\Kaizen\\FirstQuestion\\FirstQuestion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\damla\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

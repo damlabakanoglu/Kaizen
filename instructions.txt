@@ -1,0 +1,5 @@
+Merhaba
+
+İki soruyu aynı solution içerisinde oluşturdum.
+Test etmek istenilen projeyi startup olarak seçmeniz gerekmektedir
+Projeler içerisinde yorum satırları ekleyip hangi aşamada ne yapıldığını kısaca özetledim 

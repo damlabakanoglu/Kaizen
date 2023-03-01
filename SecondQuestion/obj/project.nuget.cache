@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OCb7oECj2QCsU94Pzcj76pLe1ijO2F1ZH3VNp6IwpXZxrOxYAq8uu3ibqh0HRbNg1u7zYGILR2BLK5dgiKsVuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\damla\\OneDrive\\Belgeler\\GitHub\\Robert\\Kaizen\\SecondQuestion\\SecondQuestion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\damla\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\damla\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
